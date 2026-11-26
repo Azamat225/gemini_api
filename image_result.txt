@@ -1,0 +1,5 @@
+Режим: Распознавание текста (OCR)
+Файл: dan-mark.png
+Модель: gemini-3.1-flash-lite
+
+DAN
